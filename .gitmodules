@@ -1,0 +1,9 @@
+[submodule "pubsub"]
+	path = pubsub
+	url = git@github.com:shameerb/go-pubsub.git
+[submodule "task-scheduler"]
+	path = task-scheduler
+	url = git@github.com:shameerb/task-scheduler.git
+[submodule "tcp-chat"]
+	path = tcp-chat
+	url = git@github.com:shameerb/simple-chat.git
