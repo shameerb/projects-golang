@@ -7,3 +7,6 @@
 [submodule "tcp-chat"]
 	path = tcp-chat
 	url = git@github.com:shameerb/simple-chat.git
+[submodule "chat"]
+	path = chat
+	url = git@github.com:shameerb/chat.git
