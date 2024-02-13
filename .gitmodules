@@ -10,3 +10,6 @@
 [submodule "chat"]
 	path = chat
 	url = git@github.com:shameerb/chat.git
+[submodule "tiny-lb"]
+	path = tiny-lb
+	url = git@github.com:shameerb/tiny-lb.git
