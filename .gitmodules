@@ -1,18 +1,3 @@
-[submodule "pubsub"]
-	path = pubsub
-	url = git@github.com:shameerb/go-pubsub.git
-[submodule "task-scheduler"]
-	path = task-scheduler
-	url = git@github.com:shameerb/task-scheduler.git
-[submodule "tcp-chat"]
-	path = tcp-chat
-	url = git@github.com:shameerb/simple-chat.git
 [submodule "chat"]
 	path = chat
 	url = git@github.com:shameerb/chat.git
-[submodule "tiny-lb"]
-	path = tiny-lb
-	url = git@github.com:shameerb/tiny-lb.git
-[submodule "go-todo"]
-	path = go-todo
-	url = git@github.com:shameerb/go-todo.git
