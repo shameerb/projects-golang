@@ -13,3 +13,6 @@
 [submodule "tiny-lb"]
 	path = tiny-lb
 	url = git@github.com:shameerb/tiny-lb.git
+[submodule "go-todo"]
+	path = go-todo
+	url = git@github.com:shameerb/go-todo.git
